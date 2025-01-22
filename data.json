@@ -26,8 +26,8 @@
       ],
       "ruta": "glaciar-perito-moreno",
       "precio": {
-        "Regular": 180000,
-        "Tarjeta de crédito": 90000
+        "Regular": 150000,
+        "Tarjeta de crédito": 165000
       }
     },
     {
@@ -44,7 +44,7 @@
       "duracionCard": "9 hs",
       "incluye": [
         "Transfer ida y vuelta",
-        "Almuerzo en Restaurant Rancho Grande (Opcional)",
+        "Almuerzo (Opcional)",
         "Visita a parador histórico La Leona",
         "Visita al Mirador de Los Cóndores",
         "Visita al Chorrillo del Salto"
@@ -58,8 +58,10 @@
       ],
       "ruta": "chalten",
       "precio": {
-        "Regular": 180000,
-        "Tarjeta de crédito": 90000
+        "Regular": 108000,
+        "Tarjeta de crédito": 118800,
+        "Hasta de 11 años": 86400,
+        "Hasta 11 años (TC)": 95040
       }
     },
     {
@@ -126,6 +128,7 @@
       "duracionCard": "Full day",
       "incluye": [
         "Transfer ida y vuelta",
+        "Box Lunch (Consultar)",
         "Navegación frente al Glaciar Upsala, Spegazzini y Perito Moreno",
         "Gastronomía Gourmet",
         "Guía bilingüe durante toda la navegación"
@@ -140,7 +143,12 @@
         "img/gourmet5.webp"
       ],
       "ruta": "glaciares-gourmet",
-      "precio": 250000
+      "precio": {
+        "Regular": 280000,
+        "Jubilados": 208000,
+        "Menores (5 a 15 años)": 187000,
+        "Menores (3 a 4 años)": 40000
+      }
     },
     {
       "nombre": "Todo Glaciares",
@@ -190,7 +198,14 @@
         "img/todo7.webp"
       ],
       "ruta": "todo-glaciares",
-      "precio": 240000
+      "precio": {
+        "Regular": 200000,
+        "Menores (6 a 16 años)": 160000,
+        "Menores (3 a 5 años)": 0,
+        "Adultos + traslado": 240000,
+        "Menores (6 a 16 años) + traslado": 200000,
+        "Menores (3 a 5 años) + traslado": 40000
+      }
     },
     {
       "nombre": "Vuelo en helicóptero",
@@ -274,7 +289,10 @@
         "img/4x45.webp"
       ],
       "ruta": "4x4-cerro-frias",
-      "precio": 145000
+      "precio": {
+        "Regular": 145000,
+        "Menores (3 a 11 años)": 72500
+      }
     },
     {
       "nombre": "Cabalgata Cerro Frias",
@@ -312,7 +330,10 @@
         "img/cabalgata5.webp"
       ],
       "ruta": "cabalgata-cerro-frias",
-      "precio": 145000
+      "precio": {
+        "Regular": 145000,
+        "Menores (3 a 11 años)": 72500
+      }
     },
     {
       "nombre": "Tiroleza Cerro Frias",
@@ -349,7 +370,10 @@
         "img/tirolesa5.webp"
       ],
       "ruta": "tiroleza-cerro-frias",
-      "precio": 145000
+      "precio": {
+        "Regular": 145000,
+        "Menores (3 a 11 años)": 72500
+      }
     },
     {
       "nombre": "In-out aeropuerto El Calafate",
@@ -372,7 +396,11 @@
         "img/aep2.webp"
       ],
       "ruta": "traslado-aeropuerto",
-      "precio": 18000
+      "precio": {
+        "Regular": 26000,
+        "Aeropuerto - Calafate": 28000,
+        "Calafate - Aeropuerto": 26000
+      }
     },
     {
       "nombre": "Traslado al Puerto Bajo Las Sombras",
@@ -417,61 +445,13 @@
       "ruta": "traslado-puerto-punta-bandera"
     },
     {
-      "nombre": "Tour de compras en Punta Arenas",
-      "grupo": [
-        "traslados"      ],
-      "id": 12,
-      "subtitulo": "Recorrido de 490km, salidas programadas desde El Calafate a Punta Arenas, Chile. Incluye: Visita a la Zona Franca, centro de Punta Arenas y shopping.",
-      "descripcion": [
-        "Recorrido de 490km, salidas programadas desde El Calafate a Punta Arenas, Chile. Incluye: Visita a la Zona Franca, centro de Punta Arenas y shopping. Incluye lunch box, bebidas calientes y snacks"
-    ],
-      "duracion": "",
-      "duracionCard": "490 km",
-      "incluye": [
-        "Visita a la Zona Franca",
-        "Centro de Punta Arenas",
-        "Shopping",
-        "Vianda (Opcional, consultar menú)"
-      ],
-      "incluyeCard": "Ida y vuelta",
-      "noIncluye": [],
-      "imagenes": [
-        "img/puntaArenas1.webp"
-      ],
-      "ruta": "tour-de-compras-punta-arenas"
-    },
-    {
-      "nombre": "Traslado a estancias",
-      "grupo": [
-        "traslados"      ],
-      "id": 13,
-      "subtitulo": "Traslado desde el hotel de El Calafate a estancias turísticas. (Nibepo aike, El Galpón del Glaciar, Río Mitre)",
-      "descripcion": [
-        "Traslado desde el hotel de El Calafate a estancias turísticas. (Nibepo aike, El Galpón del Glaciar, Río Mitre)"
-    ],
-      "duracion": "",
-      "duracionCard": "",
-      "incluye": [
-        "Traslado ida y vuelta desde el hotel de El Calafate",
-        "Vianda (Opcional, consultar menú)"
-      ],
-      "incluyeCard": "Ida y vuelta",
-      "noIncluye": [],
-      "imagenes": [
-        "img/estancias1.webp",
-        "img/estancias2.webp",
-        "img/estancias3.webp"
-      ],
-      "ruta": "traslado-a-estancias"
-    },
-    {
       "nombre": "Otros destinos (transfer privado)",
       "grupo": [
         "traslados"      ],
       "id": 14,
-      "subtitulo": "Traslados privados desde el hotel de El Calafate a destinos a elección. (Hotel Eolo, Museo Glaciarium, Cuevas de Punta Walichu, Bosque Petrificado La Leona)",
+      "subtitulo": "Traslados privados desde el hotel de El Calafate a destinos a elección. ( Estancia turística Nibepo Aike, el galpón del glaciar, río mitre, hotel Eolo, museo Glaciarium, cuevas de Punta Walichu, La Leona)",
       "descripcion": [
-        "Traslados privados desde el hotel de El Calafate a destinos a elección. (Hotel Eolo, Museo Glaciarium, Cuevas de Punta Walichu, Bosque Petrificado La Leona)"
+        "Traslados privados desde el hotel de El Calafate a destinos a elección. ( Estancia turística Nibepo Aike, el galpón del glaciar, río mitre, hotel Eolo, museo Glaciarium, cuevas de Punta Walichu, La Leona)"
     ],
       "duracion": "",
       "duracionCard": "",
