@@ -1,0 +1,659 @@
+{
+  "active": true,
+  "excursiones": [
+    {
+      "nombre": "Excursión al Glaciar Perito Moreno",
+      "grupo": [
+        "glaciares"
+      ],
+      "id": 0,
+      "subtitulo": "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. s",
+      "descripcion": [
+        "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas.",
+        "Podrán caminar en las pasarelas metálicas con sus 4 km de largo para disfrutar de su frente. En el parque tendrán servicios de baños, cafetería, restaurante y tienda de souvenirs."
+      ],
+      "duracion": "8 horas",
+      "duracionCard": "8 hs",
+      "incluye": [
+        "Transfer ida y vuelta",
+        "Vianda (Opcional, consultar menú)"
+      ],
+      "incluyeCard": "Transfer ida y vuelta",
+      "noIncluye": [],
+      "imagenes": [
+        "img/glaciar1.webp",
+        "img/glaciar2.webp"
+      ],
+      "ruta": "glaciar-perito-moreno"
+    },
+    {
+      "nombre": "El Chaltén full day",
+      "grupo": [
+        "aventura",
+        "traslados"
+      ],
+      "id": 1,
+      "subtitulo": "A las 8:00 am los buscamos por el hotel. Esta excursión te permite conocer el encanto de El Chaltén en un recorrido full day saliendo desde El Calafate. Visitarán el Parador Histórico La Leona y realizarán dos trekking cortos: Mirador de los Cóndores y Chorrillo del Salto. Servicio de traslado en Privado. El almuerzo es opcional y se sirve en el restaurante Rancho Grande.",
+      "descripcion": [
+        "A las 8:00 am los buscamos por el hotel. Esta excursión te permite conocer el encanto de El Chaltén en un recorrido full day saliendo desde El Calafate. Visitarán el Parador Histórico La Leona y realizarán dos trekking cortos: Mirador de los Cóndores y Chorrillo del Salto. Servicio de traslado en Privado. El almuerzo es opcional y se sirve en el restaurante Rancho Grande. "      ],
+      "duracion": "9 hs",
+      "duracionCard": "9 hs",
+      "incluye": [
+        "Transfer ida y vuelta",
+        "Almuerzo en Restaurant Rancho Grande (Opcional)",
+        "Visita a parador histórico La Leona",
+        "Visita al Mirador de Los Cóndores",
+        "Visita al Chorrillo del Salto"
+      ],
+      "incluyeCard": "Incluye transfer",
+      "noIncluye": [],
+      "imagenes": [
+        "img/chalten1.webp",
+        "img/chalten2.webp",
+        "img/chalten3.webp"
+      ],
+      "ruta": "chalten"
+    },
+    {
+      "nombre": "El Espiritu de los Glaciares",
+      "grupo": [
+        "glaciares",
+        "navegaciones"
+      ],
+      "id": 2,
+      "subtitulo": "Disfruta de 2 días y 1 noche en Cabina Deluxe en crucero. Exclusividad y lujo navegando frente a los glaciares Upsala y Spegazzini con servicio gourmet y miradores exclusivos.",
+      "descripcion": [
+        "LA MAGIA DE LOS HIELOS DEL SUR DE LA PATAGONIA EN UNA EXPEDICIÓN LEGENDARIA", "El Campo de Hielo Patagónico es, después de la Antártida, el manto de hielo más grande del planeta. Sus glaciares tienen origen a solo 1500 msnm de altitud y descienden hasta los 200 msnm, lo que permite un acceso y visualización única en el mundo.", "El Parque Nacional Los Glaciares es un magnífico escenario de bosques, lagos, montañas, hielo y estepa, con más de 200 glaciares.", "Destacan el Glaciar Spegazzini con la gran altura de su frente que alcanza los 135 msnm, el Glaciar Upsala que cubre todo un valle con una extensión aproximada de 765 Km2 y una longitud de 53 km, y el Glaciar Perito Moreno, en constante avance, y cuyas rupturas son un espectáculo natural incomparable.", "El Espíritu de los Glaciares es una expedición que se adentra en la naturaleza y en la esencia de este paraje patagónico, navegándolo a bordo del exclusivo Crucero Santa Cruz, especialmente diseñado para esta expedición. El más alto confort y gastronomía gourmet para una experiencia memorable.",
+        "",
+        "LAEXPERIENCIA ABORDO",
+        "20 cabinas dobles exteriores, con baño privado.Cubierta en popa y proa, y cubierta principal sobre el salón. El programa incluye todas las comidas con bebidas.Bebidas no alcohólicas e infusiones durante la navegación. Actividades con guía bilingüe inglés – español. Ambientes climatizados. Cocina equipada de alta tecnología. Restaurante, biblioteca, Living & Bar.",
+        "",
+        "CHECK IN & CHECKOUT",
+        "Embarque a las 18:00 horas.", "Fin de la expedición a las 16:00 hs. del día siguiente.", "Traslado hacia El Calafate.",
+        "",
+        "GASTRONOMIA",
+        "Un menú gourmet especialmente diseñado por nuestro chef para estatravesía, acompañado de un maridaje perfecto con destacados vinos dela región."
+          
+      ],
+      "duracion": "Full day",
+      "duracionCard": "Full day",
+      "incluye": [
+        "Transfer ida y vuelta",
+        "Almuerzo Gourmet",
+        "Guía bilingüe durante toda la navegación",
+        "Alojamiento en Cabina Deluxe en base doble con baño privado"
+      ],
+      "incluyeCard": "Incluye transfer",
+      "noIncluye": ["Entrada al Parque Nacional Los Glaciares", "Bebidas alcohólicas fuera del horario de comidas"],
+      "imagenes": [
+        "img/eg7.webp",
+        "img/eg1.webp",
+        "img/eg2.webp",
+        "img/eg3.webp",
+        "img/eg4.webp",
+        "img/eg5.webp",
+        "img/eg6.webp"      ],
+      "ruta": "el-espiritu-de-los-glaciares"
+    },
+    {
+      "nombre": "Full day Glaciares Gourmet",
+      "grupo": [
+        "glaciares",
+        "navegaciones"
+      ],
+      "id": 3,
+      "subtitulo": "Navegación exclusiva en el Parque Nacional Los Glaciares: visita a glaciares Upsala, Spegazzini y Perito Moreno, con caminata en bosque y posibilidad de descenso en pasarelas del Perito Moreno.",
+      "descripcion": [
+      "LOS GLACIARES DEL SUR DE LA PATAGONIA EN UNA EXPERIENCIA SORPRENDENTE",
+       "El Campo de Hielo Patagónico es, después de la Antártida, el manto de hielo más grande del planeta. Sus glaciares tienen origen a solo 1500 msnm de altitud y descienden hasta los 200 msnm, lo que permite un acceso y visualización única en el mundo.",
+        "El Parque Nacional Los Glaciares es un magnífico escenario de bosques, lagos, montañas, hielo y estepa, con más de 200 glaciares. Destacan el Glaciar Spegazzini con la gran altura de su frente que alcanza los 135 msnm, el Glaciar Upsala que cubre todo un valle con una extensión aproximada de 765 Km2 y una longitud de 53 km, y el Glaciar Perito Moreno, en constante avance, y cuyas rupturas son un espectáculo natural incomparable.",
+        "Glaciares Gourmet es una experiencia full day abordo del Crucero María Turquesa que recorre algunos lugares de este paraje patagónico, navegándolo con el más alto confort y con una gastronomía gourmet diseñada especialmente para una experiencia memorable.",
+        "","LA EXPERIENCIA A BORDO:", "Salón principal con capacidad para 180 personas + espacio para niños especialmente diseñado.", "4 cubiertas exteriores y 1 sala premium en el nivel superior con capacidad máxima para 16 personas.", 
+        "",
+        "CHECK IN & CHECK OUT", "Embarque a las 8:30 horas.", "Desembarque a las 17:00 hs.",
+        "",
+        "GASTRONOMIA", "Un menú gourmet especialmente diseñado por nuestro chef para esta experiencia, acompañado con destacados vinos de la región para la sala premium y una exquisita lunch box gourmet."
+      ],
+      "duracion": "Full day",
+      "duracionCard": "Full day",
+      "incluye": [
+        "Transfer ida y vuelta",
+        "Navegación frente al Glaciar Upsala, Spegazzini y Perito Moreno",
+        "Gastronomía Gourmet",
+        "Guía bilingüe durante toda la navegación"
+      ],
+      "incluyeCard": "Incluye transfer",
+      "noIncluye": ["Entrada al Parque Nacional Los Glaciares"],
+      "imagenes": [
+        "img/gourmet1.webp",
+        "img/gourmet2.webp",
+        "img/gourmet3.webp",
+        "img/gourmet4.webp",
+        "img/gourmet5.webp"
+      ],
+      "ruta": "glaciares-gourmet"
+    },
+    {
+      "nombre": "Todo Glaciares",
+      "grupo": [
+        "glaciares",
+        "navegaciones"
+            ],
+      "id": 15,
+      "subtitulo": "Una de las navegaciones más completas en el PN Los Glaciares: visita a los glaciares Upsala y Spegazzini, descenso en el bosque y almuerzo en Refugio Spegazzini con vistas únicas.",
+      "descripcion": [
+        "Zarpamos desde el Puerto Punta Bandera a 47km de la ciudad de El Calafate.",
+        "Cuando llegues, te daremos la bienvenida en nuestra cálida terminal de embarque.",
+        "Nuestro experimentado equipo te indicará cómo realizar el proceso de pre-embarque, para comenzar tu mejor experiencia en glaciares.",
+        "Si para este momento, aún no tenés la entrada al Parque Nacional Los Glaciares, te indicaremos dónde podrás adquirirla.",
+        "En cada momento estaremos brindándote el mejor servicio para que vivas un momento inolvidable y puedas dedicarte a disfrutar de cada detalle de la experiencia.",
+        "Una vez a bordo de nuestras confortables embarcaciones,",
+        "Todo Glaciares inicia navegando por el Brazo Norte del Lago Argentino, atravesando la Boca del Diablo, dirigiéndose hacia el Canal Upsala para vivir la sensación inigualable de navegar entre témpanos, algunos de muy gran tamaño, que se desprenden del Glaciar Upsala.",
+        "¡Una experiencia realmente maravillosa y única!",
+        "Luego, navegaremos hacia el Canal Spegazzini, que te ofrecerá vistas únicas de increíbles glaciares colgantes como el Glaciar Seco, el Glaciar Heim Sur y el Glaciar Peineta, que son la antesala del espectáculo mayor:",
+        "el imponente Glaciar Spegazzini.",
+        "El más grande de todos, que te espera para ofrecerte una majestuosa vista con su alto de más de 135 metros.",
+        "Y para coronar ese momento, descenderemos en la Base Spegazzini justo frente al Glaciar, para disfrutar de nuestro moderno Refugio Spegazzini, que cuenta con todos los servicios que necesitás durante tu jornada y que te permitirá vivir momentos realmente únicos, con sus vistas panorámicas deslumbrantes.",
+        "Opcionalmente, podrás degustar exquisitos menús regionales con variantes para todos los gustos.",
+        "Tenemos implementada una infraestructura 100% accesible que permite que no existan limitaciones.",
+        "Contamos con rampas de acceso, elevador en muelle de Punta Bandera, muelle flotante para desembarque en Base Spegazzini y sanitarios adaptados en embarcaciones y en el Refugio Spegazzini.",
+        "Nuestros senderos y sus miradores también son 100% accesibles.",
+        "TODO GLACIARES ​es mucho más que una navegación.",
+        "Es una experiencia difícil de comparar por lo única que es y por tanto, es muy difícil de ser descrita por palabras.",
+        "Estamos seguros de que jamás la olvidarás.",
+        "Tenés que estar allí para vivirla."
+    ],
+      "duracion": "",
+      "duracionCard": "",
+      "incluye": [
+        "Traslado ida y vuelta desde el hotel de El Calafate",
+        "Vianda (Opcional, consultar menú)"
+      ],
+      "incluyeCard": "Ida y vuelta",
+      "noIncluye": ["Entrada al Parque Nacional Los Glaciares"],
+      "imagenes": [
+        "img/todo4.webp",
+        "img/todo1.webp",
+        "img/todo2.webp",
+        "img/todo3.webp",
+        "img/todo5.webp",
+        "img/todo6.webp",
+        "img/todo7.webp"
+      ],
+      "ruta": "todo-glaciares"
+    },
+    {
+      "nombre": "Vuelo en helicóptero",
+      "grupo": [
+        "aventura"      ],
+      "id": 4,
+      "subtitulo": "Vuelos en helicóptero en Ushuaia. Ushuaia 360°, Laguna Esmeralda, Propuesta de casamiento en la Cordillera de los Andes, Península Mitre, Grandes Lagos, y más.",
+      "descripcion": [
+      "Vuelos en helicóptero en Ushuaia: Ushuaia 360°, Laguna Esmeralda, Heliweddings, propuesta de casamiento en Cordillera de los Andes, Península Mitre, Grandes Lagos, Naufragio Buque Sarmiento y más experiencias únicas."
+      ],
+      "duracion": "Full day",
+      "duracionCard": "Full day",
+      "incluye": [
+        "Transfer ida y vuelta"
+      ],
+      "incluyeCard": "Incluye transfer",
+      "noIncluye": [],
+      "imagenes": [
+        "img/heli1.webp",
+        "img/heli2.webp",
+        "img/heli3.webp",
+        "img/heli4.webp",
+        "img/heli5.webp",
+        "img/heli6.webp",
+        "img/heli7.webp"
+      ],
+      "ruta": "vuelo-en-helicoptero"
+    },
+    {
+      "nombre": "Jet Privado desde El Calafate o Ushuaia",
+      "grupo": [
+        "aventura"      ],
+      "id": 5,
+      "subtitulo": "Servicio exclusivo de jet privado desde Ushuaia o El Calafate a destinos selectos de Patagonia Argentina y Chile",
+      "descripcion": [
+      "Servicio de JET PRIVADO super exclusivo desde Ushuaia, o El Calafate una experiencia de alta gama a múltiples destinos de la Patagonia: El Calafate, Full Day Calafate, Puerto Madryn, Bariloche, Ushuaia, Full Day Ushuaia, Buenos Aires. A CHILE: Punta Arenas, Tour de compras Punta Arenas, Puerto Natales, Puerto Williams."      ],
+      "duracion": "Full day",
+      "duracionCard": "Full day",
+      "incluye": [
+        "Transfer ida y vuelta"
+      ],
+      "incluyeCard": "Incluye transfer",
+      "noIncluye": [],
+      "imagenes": [
+        "img/jet1.webp",
+        "img/jet2.webp",
+        "img/jet3.webp",
+        "img/jet4.webp",
+        "img/jet5.webp"
+      ],
+      "ruta": "jet-privado"
+    },
+    {
+      "nombre": "4x4 Cerro Frias",
+      "grupo": [
+        "aventura"      ],
+      "id": 6,
+      "subtitulo": "Disfruta de un recorrido por caminos sinuosos que ofrecen vistas espectaculares del Lago Argentino y la estepa patagónica. ¡Para todas las edades!",
+      "descripcion": [
+        "Inicia una emocionante aventura en 4×4 con la recogida en tu hotel en El Calafate. Tras un breve trayecto de 20 minutos, llegarás a la estancia para comenzar el ascenso por el Cerro Frías. Disfruta de un recorrido por caminos sinuosos que ofrecen vistas espectaculares del Lago Argentino y la estepa patagónica.",
+        "A 450 metros de altura, el primer mirador ofrece una vista impresionante del lago y sus brazos, mientras que el punto más alto brinda panorámicas de 360 grados, incluyendo el Parque Nacional Los Glaciares, el Cerro Fitz Roy y las Torres del Paine.",
+        "Después de explorar el cerro, desciende por la cara sur atravesando un bosque de lengas autóctonas. La experiencia culmina con un almuerzo en la Estancia Alice, donde disfrutarás de un auténtico guiso de lentejas patagónico en un entorno natural impresionante.",
+        "",
+        "HORARIO",
+        "Pick up a partir de las 8:30 hs, terminando la actividad a las 13:30 hs."
+    ],
+      "duracion": "4hs",
+      "duracionCard": "4hs",
+      "incluye": [
+        "Transfer ida y vuelta",
+        "Almuerzo, merienda o cena",
+        "Vistas panorámicas del Parque Nacional Los Glaciares, el Cerro Fitz Roy y las Torres del Paine"
+      ],
+      "incluyeCard": "+ Almuerzo, merienda o cena",
+      "noIncluye": [],
+      "imagenes": [
+        "img/4x41.webp",
+        "img/4x42.webp",
+        "img/4x43.webp",
+        "img/4x44.webp",
+        "img/4x45.webp"
+      ],
+      "ruta": "4x4-cerro-frias"
+    },
+    {
+      "nombre": "Cabalgata Cerro Frias",
+      "grupo": [
+        "aventura"      ],
+      "id":  7,
+      "subtitulo": "Explora el Cerro Frías a caballo, rodeado de paisajes únicos, y concluye la experiencia con un delicioso almuerzo en la estancia. DIFICULTAD: Fácil (A partir de los 6 años de edad.)",
+      "descripcion": [
+        "Descubre la esencia de la Patagonia con una cabalgata inolvidable en el Cerro Frías.",
+        "Comenzamos recogiéndote en tu hotel en El Calafate y, tras un breve viaje, llegamos a la estancia Alice. Allí, nuestros guías te equiparán con todo lo necesario para una experiencia segura y placentera.",
+        "No necesitas experiencia previa, ya que nuestros caballos son ideales para jinetes de todos los niveles.",
+        "Embárcate en una emocionante aventura por los senderos del Cerro Frías, ascendiendo hasta los 400 metros sobre el nivel del mar.",
+        "Desde este punto, disfrutarás de impresionantes vistas del valle del Río Centinela, el majestuoso cordón de los Cristales y, en un día despejado, las icónicas Torres del Paine.",
+        "El regreso será por un encantador bosque de lengas, brindándote un contacto íntimo con la serenidad natural de la Patagonia.",
+        "La experiencia culmina con un delicioso almuerzo que incluye un guiso de lentejas patagónico y un exquisito brownie, para que termines la jornada con una nota sabrosa y reconfortante.",
+        "Horario",
+        "Pick up a partir de las 8:30 hs, terminando la actividad a las 13:30 hs."
+    ],
+      "duracion": "4hs",
+      "duracionCard": "4hs",
+      "incluye": [
+        "Recogida en el hotel",
+        "Equipamiento completo",
+        "Cabalgata y vistas",
+        "Regreso a la estancia",
+        "Almuerzo en la estancia"
+      ],
+      "incluyeCard": "+ Almuerzo, merienda o cena",
+      "noIncluye": [],
+      "imagenes": [
+        "img/cabalgata1.webp",
+        "img/cabalgata2.webp",
+        "img/cabalgata3.webp",
+        "img/cabalgata4.webp",
+        "img/cabalgata5.webp"
+      ],
+      "ruta": "cabalgata-cerro-frias"
+    },
+    {
+      "nombre": "Tiroleza Cerro Frias",
+      "grupo": [
+        "aventura"      ],
+      "id": 8,
+      "subtitulo": "Disfruta del descenso en tirolesa por el Cerro Frías, una de las más grandes de Sudamérica. Recarga energías con un almuerzo en la estancia. Desde 6 años.",
+      "descripcion": [
+        "¡Prepárate para una aventura épica en la Patagonia!",
+        "Comienza equipándote en nuestro acogedor quincho y luego asciende en vehículos 4×4 por el faldeo sur del cerro hasta una plataforma a 560 metros sobre el nivel del mar.",
+        "Desde allí, lánzate por una de las tirolesas más grandes de Sudamérica, descendiendo en zigzag a través de cuatro tramos de 500 metros cada uno.",
+        "Mientras desciendes, disfruta de impresionantes vistas de las Torres del Paine y el cordón de los Cristales.",
+        "Al finalizar, regresa al quincho para un almuerzo reconfortante con un guiso de lentejas patagónico.",
+        "¡Vive la emoción y el sabor auténtico de la Patagonia en una experiencia verdaderamente inolvidable!",
+        "Horario",
+        "Pick up a partir de las 8:30 hs, terminando la actividad a las 13:30 hs."
+    ],
+      "duracion": "4hs",
+      "duracionCard": "4hs",
+      "incluye": [
+        "Equipamiento en el quincho",
+        "Ascenso en 4x4",
+        "Descenso en tiroleza",
+        "Vistas panorámicas",
+        "Almuerzo patagónico"
+      ],
+      "incluyeCard": "+ Almuerzo, merienda o cena",
+      "noIncluye": [],
+      "imagenes": [
+        "img/tirolesa1.webp",
+        "img/tirolesa2.webp",
+        "img/tirolesa3.webp",
+        "img/tirolesa4.webp",
+        "img/tirolesa5.webp"
+      ],
+      "ruta": "tiroleza-cerro-frias"
+    },
+    {
+      "nombre": "In-out aeropuerto El Calafate",
+      "grupo": [
+        "traslados"      ],
+      "id": 9,
+      "subtitulo": "Traslado desde el Aeropuerto a la ciudad de El Calafate, y desde El Calafate a el aeropuerto.",
+      "descripcion": [
+        "Traslado desde el Aeropuerto a la ciudad de El Calafate, y desde El Calafate a el aeropuerto."
+    ],
+      "duracion": "",
+      "duracionCard": "21km",
+      "incluye": [
+        "Traslado desde el Aeropuerto al hotel de El Calafate"
+      ],
+      "incluyeCard": "Ida y vuelta",
+      "noIncluye": [],
+      "imagenes": [
+        "img/aep1.webp",
+        "img/aep2.webp"
+      ],
+      "ruta": "traslado-aeropuerto"
+    },
+    {
+      "nombre": "Traslado al Puerto Bajo Las Sombras",
+      "grupo": [
+        "traslados"      ],
+      "id": 10,
+      "subtitulo": "Traslado desde el hotel de El Calafate al puerto Bajo Las Sombras.",
+      "descripcion": [
+        "Traslado desde el hotel de El Calafate al puerto Bajo Las Sombras."
+    ],
+      "duracion": "",
+      "duracionCard": "72 km",
+      "incluye": [
+        "Traslado ida y vuelta desde el hotel de El Calafate al puerto Bajo Las Sombras"
+      ],
+      "incluyeCard": "Ida y vuelta",
+      "noIncluye": [],
+      "imagenes": [
+        "img/bajolassombras1.webp"
+      ],
+      "ruta": "traslado-puerto-bajo-las-sombras"
+    },
+    {
+      "nombre": "Traslado al Puerto Punta Bandera",
+      "grupo": [
+        "traslados"      ],
+      "id": 11,
+      "subtitulo": "Traslado desde el hotel de El Calafate al puerto Punta Bandera.",
+      "descripcion": [
+        "Traslado desde el hotel de El Calafate al puerto Punta Bandera."
+    ],
+      "duracion": "",
+      "duracionCard": "47 km",
+      "incluye": [
+        "Traslado ida y vuelta desde el hotel de El Calafate al puerto Punta Bandera"
+      ],
+      "incluyeCard": "Ida y vuelta",
+      "noIncluye": [],
+      "imagenes": [
+        "img/puertobandera1.webp"
+      ],
+      "ruta": "traslado-puerto-punta-bandera"
+    },
+    {
+      "nombre": "Tour de compras en Punta Arenas",
+      "grupo": [
+        "traslados"      ],
+      "id": 12,
+      "subtitulo": "Recorrido de 490km, salidas programadas desde El Calafate a Punta Arenas, Chile. Incluye: Visita a la Zona Franca, centro de Punta Arenas y shopping.",
+      "descripcion": [
+        "Recorrido de 490km, salidas programadas desde El Calafate a Punta Arenas, Chile. Incluye: Visita a la Zona Franca, centro de Punta Arenas y shopping. Incluye lunch box, bebidas calientes y snacks"
+    ],
+      "duracion": "",
+      "duracionCard": "490 km",
+      "incluye": [
+        "Visita a la Zona Franca",
+        "Centro de Punta Arenas",
+        "Shopping",
+        "Vianda (Opcional, consultar menú)"
+      ],
+      "incluyeCard": "Ida y vuelta",
+      "noIncluye": [],
+      "imagenes": [
+        "img/puntaArenas1.webp"
+      ],
+      "ruta": "tour-de-compras-punta-arenas"
+    },
+    {
+      "nombre": "Traslado a estancias",
+      "grupo": [
+        "traslados"      ],
+      "id": 13,
+      "subtitulo": "Traslado desde el hotel de El Calafate a estancias turísticas. (Nibepo aike, El Galpón del Glaciar, Río Mitre)",
+      "descripcion": [
+        "Traslado desde el hotel de El Calafate a estancias turísticas. (Nibepo aike, El Galpón del Glaciar, Río Mitre)"
+    ],
+      "duracion": "",
+      "duracionCard": "",
+      "incluye": [
+        "Traslado ida y vuelta desde el hotel de El Calafate",
+        "Vianda (Opcional, consultar menú)"
+      ],
+      "incluyeCard": "Ida y vuelta",
+      "noIncluye": [],
+      "imagenes": [
+        "img/estancias1.webp",
+        "img/estancias2.webp",
+        "img/estancias3.webp"
+      ],
+      "ruta": "traslado-a-estancias"
+    },
+    {
+      "nombre": "Otros destinos (transfer privado)",
+      "grupo": [
+        "traslados"      ],
+      "id": 14,
+      "subtitulo": "Traslados privados desde el hotel de El Calafate a destinos a elección. (Hotel Eolo, Museo Glaciarium, Cuevas de Punta Walichu, Bosque Petrificado La Leona)",
+      "descripcion": [
+        "Traslados privados desde el hotel de El Calafate a destinos a elección. (Hotel Eolo, Museo Glaciarium, Cuevas de Punta Walichu, Bosque Petrificado La Leona)"
+    ],
+      "duracion": "",
+      "duracionCard": "",
+      "incluye": [
+        "Traslado ida y vuelta desde el hotel de El Calafate",
+        "Vianda (Opcional, consultar menú)"
+      ],
+      "incluyeCard": "Ida y vuelta",
+      "noIncluye": [],
+      "imagenes": [
+        "img/otros1.webp",
+        "img/otros2.webp",
+        "img/otros3.webp"
+      ],
+      "ruta": "otros-destinos"
+    },
+    {
+      "nombre": "Aeropuerto + Glaciar Perito Moreno",
+      "grupo": [
+        "glaciares",
+        "paquetes"
+            ],
+      "id": 16,
+      "subtitulo": "Traslado desde el Aeropuerto a la ciudad de El Calafate, y desde El Calafate a el aeropuerto + excursión al Glaciar Perito Moreno.",
+      "descripcion": [
+        "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. Incluye lunch box, bebidas calientes y snacks",
+        "Podrán caminar en las pasarelas metálicas con sus 4 km de largo para disfrutar de su frente. En el parque tendrán servicios de baños, cafetería, restaurante y tienda de souvenirs."
+    ],
+      "duracion": "",
+      "duracionCard": "",
+      "incluye": [
+        "Traslado ida y vuelta desde el hotel de El Calafaten al Aeropuerto",
+        "Excursión al Glaciar Perito Moreno",
+        "Vianda (Opcional, consultar menú)"
+      ],
+      "incluyeCard": "Ida y vuelta",
+      "noIncluye": ["Entrada al Parque Nacional Los Glaciares"],
+      "imagenes": [
+        "img/glaciar2.webp",
+        "img/glaciar1.webp",
+        "img/aep1.webp"
+      ],
+      "ruta": "aep-glaciar"
+    },
+    {
+      "nombre": "Aeropuerto + Glaciar Perito Moreno + El Chaltén",
+      "grupo": [
+        "glaciares",
+        "paquetes",
+        "chalten"
+            ],
+      "id": 17,
+      "subtitulo": "Traslado desde el Aeropuerto a la ciudad de El Calafate, y desde El Calafate a el aeropuerto + excursión al Glaciar Perito Moreno.",
+      "descripcion": [
+        "EXCURSIÓN GLACIAR PERITO MORENO", 
+        "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. Incluye lunch box, bebidas calientes y snacks",
+        "Podrán caminar en las pasarelas metálicas con sus 4 km de largo para disfrutar de su frente. En el parque tendrán servicios de baños, cafetería, restaurante y tienda de souvenirs.",
+        "",
+        "EXCURSIÓN EL CHALTÉN",
+        "A las 8:00 am los buscamos por el hotel. Duración 9 hs. Esta excursión te permite conocer el encanto de El Chaltén en un recorrido full day saliendo desde El Calafate. Visitarán el Parador Histórico La Leona y realizarán dos trekking cortos: Mirador de los Cóndores y Chorrillo del Salto. Servicio de traslado en Privado. El almuerzo es opcional y se sirve en el restaurante Rancho Grande."
+    ],
+      "duracion": "",
+      "duracionCard": "",
+      "incluye": [
+        "Traslado ida y vuelta desde el hotel de El Calafaten al Aeropuerto",
+        "Excursión al Glaciar Perito Moreno",
+        "Excursión a El Chaltén",
+        "Vianda (Opcional, consultar menú)"
+      ],
+      "incluyeCard": "Ida y vuelta",
+      "noIncluye": ["Entrada al Parque Nacional Los Glaciares"],
+      "imagenes": [
+        "img/chalten2.webp",
+        "img/glaciar2.webp",
+        "img/glaciar1.webp",
+        "img/aep1.webp"
+      ],
+      "ruta": "aep-glaciar-chalten"
+    },
+    {
+      "nombre": "Glaciar Perito Moreno Servicio VIP 4x4",
+      "grupo": [
+        "glaciares",
+        "paquetes"
+          
+      ],
+      "id": 18,
+      "subtitulo": "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. Incluye lunch box, bebidas calientes y snacks",
+      "descripcion": [
+        "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. Incluye lunch box, bebidas calientes y snacks",
+        "Podrán caminar en las pasarelas metálicas con sus 4 km de largo para disfrutar de su frente. En el parque tendrán servicios de baños, cafetería, restaurante y tienda de souvenirs."
+      ],
+      "duracion": "8 horas",
+      "duracionCard": "8 hs",
+      "incluye": [
+        "Transfer ida y vuelta",
+        "Vianda (Opcional, consultar menú)",
+        "Almuerzo en restaurante con vista al Glaciar (opcional)",
+        "Infusiones calientes",
+        "Snacks",
+        "Spotify Personalizado",
+        "Bebidas frías"
+      ],
+      "incluyeCard": "Transfer ida y vuelta",
+      "noIncluye": [],
+      "imagenes": [
+        "img/promoCamio.png",
+        "img/glaciar1.webp",
+        "img/glaciar2.webp"
+      ],
+      "ruta": "glaciar-perito-moreno-vip-4x4"
+    },
+    {
+      "nombre": "Glaciar Perito Moreno VIP",
+      "grupo": [
+        "glaciares",
+        "paquetes"
+      ],
+      "id": 19,
+      "subtitulo": "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. Incluye lunch box, bebidas calientes y snacks",
+      "descripcion": [
+        "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. Incluye lunch box, bebidas calientes y snacks",
+        "Podrán caminar en las pasarelas metálicas con sus 4 km de largo para disfrutar de su frente. En el parque tendrán servicios de baños, cafetería, restaurante y tienda de souvenirs."
+      ],
+      "duracion": "8 horas",
+      "duracionCard": "8 hs",
+      "incluye": [
+        "Transfer ida y vuelta",
+        "Vianda (Opcional, consultar menú)",
+        "Almuerzo en restaurante con vista al Glaciar (opcional)",
+        "Infusiones calientes",
+        "Snacks",
+        "Spotify Personalizado",
+        "Bebidas frías"
+      ],
+      "incluyeCard": "Transfer ida y vuelta",
+      "noIncluye": [],
+      "imagenes": [
+        "img/promoAuto.png",
+        "img/glaciar1.webp",
+        "img/glaciar2.webp"
+      ],
+      "ruta": "glaciar-perito-moreno-vip"
+    },
+    {
+      "nombre": "Excursión a la Laguna de los Tres en El Chaltén:",
+      "grupo": [
+        "aventura",
+        "traslados"
+      ],
+      "id": 1,
+      "subtitulo": "La Laguna de los Tres es una de las caminatas más emblemáticas y espectaculares de El Chaltén, en el corazón de la Patagonia Argentina. Este sendero ofrece impresionantes vistas del icónico Monte Fitz Roy y sus glaciares, así como la oportunidad de experimentar la belleza natural única de la región.",
+      "descripcion": [
+        "La Laguna de los Tres es una de las caminatas más emblemáticas y espectaculares de El Chaltén, en el corazón de la Patagonia Argentina. Este sendero ofrece impresionantes vistas del icónico Monte Fitz Roy y sus glaciares, así como la oportunidad de experimentar la belleza natural única de la región.",
+        "",
+        "Dificultad: Moderada",
+        "",
+        "ITINERARIO",
+        "Inicio de la Excursión:",
+          "- Punto de partida: Centro de El Chaltén.",
+            "",
+          "Camino a la Laguna:",
+          "- Sendero inicial: Floresta y ríos con vistas panorámicas a la Cordillera de los Andes.",
+          "- Primera parada: Miradores a lo largo del camino para fotos.",
+          "",
+          "Llegada a la Laguna de los Tres:",
+          "- Espacio para descansar y disfrutar del paisaje.",
+          "- Oportunidades para avistar la fauna local, como cóndores y zorros.",
+          "",
+          "Recomendaciones:",
+          "- Llevar ropa cómoda y adecuada para el clima (capas, chaqueta impermeable).",
+          "- Calzado de trekking.",
+          "- Provisión de agua y almuerzo (opcional).",
+          "- Gafas de sol y bloqueador solar.",
+          "",
+          "Esta excursión es una experiencia inolvidable que combina ejercicio, naturaleza y la oportunidad de admirar uno de los paisajes más impresionantes de Argentina.",
+          "¡Te esperamos!"
+      ],
+      "duracion": "8 hs (de caminata entre ida y vuelta)",
+      "duracionCard": "8 hs",
+      "incluye": [
+        "Transfer ida y vuelta",
+        "Almuerzo en Restaurant Rancho Grande (Opcional)",
+        "Visita a parador histórico La Leona",
+        "Visita al Mirador de Los Cóndores",
+        "Visita al Chorrillo del Salto"
+      ],
+      "incluyeCard": "Incluye transfer",
+      "noIncluye": [],
+      "imagenes": [
+        "img/lag1.webp",
+        "img/lag2.webp"
+      ],
+      "ruta": "chalten-laguna-de-los-tres"
+    }
+
+
+  ]
+}
