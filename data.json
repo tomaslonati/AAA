@@ -7,7 +7,7 @@
         "glaciares"
       ],
       "id": 0,
-      "subtitulo": "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. s",
+      "subtitulo": "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas.",
       "descripcion": [
         "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas.",
         "Podrán caminar en las pasarelas metálicas con sus 4 km de largo para disfrutar de su frente. En el parque tendrán servicios de baños, cafetería, restaurante y tienda de souvenirs."
@@ -24,7 +24,11 @@
         "img/glaciar1.webp",
         "img/glaciar2.webp"
       ],
-      "ruta": "glaciar-perito-moreno"
+      "ruta": "glaciar-perito-moreno",
+      "precio": {
+        "Regular": 180000,
+        "Tarjeta de crédito": 90000
+      }
     },
     {
       "nombre": "El Chaltén full day",
@@ -52,7 +56,11 @@
         "img/chalten2.webp",
         "img/chalten3.webp"
       ],
-      "ruta": "chalten"
+      "ruta": "chalten",
+      "precio": {
+        "Regular": 180000,
+        "Tarjeta de crédito": 90000
+      }
     },
     {
       "nombre": "El Espiritu de los Glaciares",
@@ -131,7 +139,8 @@
         "img/gourmet4.webp",
         "img/gourmet5.webp"
       ],
-      "ruta": "glaciares-gourmet"
+      "ruta": "glaciares-gourmet",
+      "precio": 250000
     },
     {
       "nombre": "Todo Glaciares",
@@ -180,7 +189,8 @@
         "img/todo6.webp",
         "img/todo7.webp"
       ],
-      "ruta": "todo-glaciares"
+      "ruta": "todo-glaciares",
+      "precio": 240000
     },
     {
       "nombre": "Vuelo en helicóptero",
@@ -263,7 +273,8 @@
         "img/4x44.webp",
         "img/4x45.webp"
       ],
-      "ruta": "4x4-cerro-frias"
+      "ruta": "4x4-cerro-frias",
+      "precio": 145000
     },
     {
       "nombre": "Cabalgata Cerro Frias",
@@ -300,7 +311,8 @@
         "img/cabalgata4.webp",
         "img/cabalgata5.webp"
       ],
-      "ruta": "cabalgata-cerro-frias"
+      "ruta": "cabalgata-cerro-frias",
+      "precio": 145000
     },
     {
       "nombre": "Tiroleza Cerro Frias",
@@ -336,7 +348,8 @@
         "img/tirolesa4.webp",
         "img/tirolesa5.webp"
       ],
-      "ruta": "tiroleza-cerro-frias"
+      "ruta": "tiroleza-cerro-frias",
+      "precio": 145000
     },
     {
       "nombre": "In-out aeropuerto El Calafate",
@@ -358,7 +371,8 @@
         "img/aep1.webp",
         "img/aep2.webp"
       ],
-      "ruta": "traslado-aeropuerto"
+      "ruta": "traslado-aeropuerto",
+      "precio": 18000
     },
     {
       "nombre": "Traslado al Puerto Bajo Las Sombras",
