@@ -156,7 +156,7 @@
         "glaciares",
         "navegaciones"
             ],
-      "id": 15,
+      "id": 4,
       "subtitulo": "Una de las navegaciones más completas en el PN Los Glaciares: visita a los glaciares Upsala y Spegazzini, descenso en el bosque y almuerzo en Refugio Spegazzini con vistas únicas.",
       "descripcion": [
         "Zarpamos desde el Puerto Punta Bandera a 47km de la ciudad de El Calafate.",
@@ -211,7 +211,7 @@
       "nombre": "Vuelo en helicóptero",
       "grupo": [
         "aventura"      ],
-      "id": 4,
+      "id": 5,
       "subtitulo": "Vuelos en helicóptero en Ushuaia. Ushuaia 360°, Laguna Esmeralda, Propuesta de casamiento en la Cordillera de los Andes, Península Mitre, Grandes Lagos, y más.",
       "descripcion": [
       "Vuelos en helicóptero en Ushuaia: Ushuaia 360°, Laguna Esmeralda, Heliweddings, propuesta de casamiento en Cordillera de los Andes, Península Mitre, Grandes Lagos, Naufragio Buque Sarmiento y más experiencias únicas."
@@ -238,7 +238,7 @@
       "nombre": "Jet Privado desde El Calafate o Ushuaia",
       "grupo": [
         "aventura"      ],
-      "id": 5,
+      "id": 6,
       "subtitulo": "Servicio exclusivo de jet privado desde Ushuaia o El Calafate a destinos selectos de Patagonia Argentina y Chile",
       "descripcion": [
       "Servicio de JET PRIVADO super exclusivo desde Ushuaia, o El Calafate una experiencia de alta gama a múltiples destinos de la Patagonia: El Calafate, Full Day Calafate, Puerto Madryn, Bariloche, Ushuaia, Full Day Ushuaia, Buenos Aires. A CHILE: Punta Arenas, Tour de compras Punta Arenas, Puerto Natales, Puerto Williams."      ],
@@ -262,7 +262,7 @@
       "nombre": "4x4 Cerro Frias",
       "grupo": [
         "aventura"      ],
-      "id": 6,
+      "id": 7,
       "subtitulo": "Disfruta de un recorrido por caminos sinuosos que ofrecen vistas espectaculares del Lago Argentino y la estepa patagónica. ¡Para todas las edades!",
       "descripcion": [
         "Inicia una emocionante aventura en 4×4 con la recogida en tu hotel en El Calafate. Tras un breve trayecto de 20 minutos, llegarás a la estancia para comenzar el ascenso por el Cerro Frías. Disfruta de un recorrido por caminos sinuosos que ofrecen vistas espectaculares del Lago Argentino y la estepa patagónica.",
@@ -298,7 +298,7 @@
       "nombre": "Cabalgata Cerro Frias",
       "grupo": [
         "aventura"      ],
-      "id":  7,
+      "id":  8,
       "subtitulo": "Explora el Cerro Frías a caballo, rodeado de paisajes únicos, y concluye la experiencia con un delicioso almuerzo en la estancia. DIFICULTAD: Fácil (A partir de los 6 años de edad.)",
       "descripcion": [
         "Descubre la esencia de la Patagonia con una cabalgata inolvidable en el Cerro Frías.",
@@ -339,7 +339,7 @@
       "nombre": "Tiroleza Cerro Frias",
       "grupo": [
         "aventura"      ],
-      "id": 8,
+      "id": 9,
       "subtitulo": "Disfruta del descenso en tirolesa por el Cerro Frías, una de las más grandes de Sudamérica. Recarga energías con un almuerzo en la estancia. Desde 6 años.",
       "descripcion": [
         "¡Prepárate para una aventura épica en la Patagonia!",
@@ -379,7 +379,7 @@
       "nombre": "In-out aeropuerto El Calafate",
       "grupo": [
         "traslados"      ],
-      "id": 9,
+      "id": 10,
       "subtitulo": "Traslado desde el Aeropuerto a la ciudad de El Calafate, y desde El Calafate a el aeropuerto.",
       "descripcion": [
         "Traslado desde el Aeropuerto a la ciudad de El Calafate, y desde El Calafate a el aeropuerto."
@@ -406,7 +406,7 @@
       "nombre": "Traslado al Puerto Bajo Las Sombras",
       "grupo": [
         "traslados"      ],
-      "id": 10,
+      "id": 11,
       "subtitulo": "Traslado desde el hotel de El Calafate al puerto Bajo Las Sombras.",
       "descripcion": [
         "Traslado desde el hotel de El Calafate al puerto Bajo Las Sombras."
@@ -427,7 +427,7 @@
       "nombre": "Traslado al Puerto Punta Bandera",
       "grupo": [
         "traslados"      ],
-      "id": 11,
+      "id": 12,
       "subtitulo": "Traslado desde el hotel de El Calafate al puerto Punta Bandera.",
       "descripcion": [
         "Traslado desde el hotel de El Calafate al puerto Punta Bandera."
@@ -448,7 +448,7 @@
       "nombre": "Otros destinos (transfer privado)",
       "grupo": [
         "traslados"      ],
-      "id": 14,
+      "id": 13,
       "subtitulo": "Traslados privados desde el hotel de El Calafate a destinos a elección. ( Estancia turística Nibepo Aike, el galpón del glaciar, río mitre, hotel Eolo, museo Glaciarium, cuevas de Punta Walichu, La Leona)",
       "descripcion": [
         "Traslados privados desde el hotel de El Calafate a destinos a elección. ( Estancia turística Nibepo Aike, el galpón del glaciar, río mitre, hotel Eolo, museo Glaciarium, cuevas de Punta Walichu, La Leona)"
@@ -474,7 +474,7 @@
         "glaciares",
         "paquetes"
             ],
-      "id": 16,
+      "id": 14,
       "subtitulo": "Traslado desde el Aeropuerto a la ciudad de El Calafate, y desde El Calafate a el aeropuerto + excursión al Glaciar Perito Moreno.",
       "descripcion": [
         "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. Incluye lunch box, bebidas calientes y snacks",
@@ -503,7 +503,7 @@
         "paquetes",
         "chalten"
             ],
-      "id": 17,
+      "id": 15,
       "subtitulo": "Traslado desde el Aeropuerto a la ciudad de El Calafate, y desde El Calafate a el aeropuerto + excursión al Glaciar Perito Moreno.",
       "descripcion": [
         "EXCURSIÓN GLACIAR PERITO MORENO", 
@@ -538,7 +538,7 @@
         "paquetes"
           
       ],
-      "id": 18,
+      "id": 16,
       "subtitulo": "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. Incluye lunch box, bebidas calientes y snacks",
       "descripcion": [
         "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. Incluye lunch box, bebidas calientes y snacks",
@@ -570,7 +570,7 @@
         "glaciares",
         "paquetes"
       ],
-      "id": 19,
+      "id": 17,
       "subtitulo": "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. Incluye lunch box, bebidas calientes y snacks",
       "descripcion": [
         "Recorrido de 77km con Pick Up por el hotel en El Calafate , se otorga tiempo libre para recorrer las pasarelas. Incluye lunch box, bebidas calientes y snacks",
@@ -602,7 +602,7 @@
         "aventura",
         "traslados"
       ],
-      "id": 1,
+      "id": 18,
       "subtitulo": "La Laguna de los Tres es una de las caminatas más emblemáticas y espectaculares de El Chaltén, en el corazón de la Patagonia Argentina. Este sendero ofrece impresionantes vistas del icónico Monte Fitz Roy y sus glaciares, así como la oportunidad de experimentar la belleza natural única de la región.",
       "descripcion": [
         "La Laguna de los Tres es una de las caminatas más emblemáticas y espectaculares de El Chaltén, en el corazón de la Patagonia Argentina. Este sendero ofrece impresionantes vistas del icónico Monte Fitz Roy y sus glaciares, así como la oportunidad de experimentar la belleza natural única de la región.",
@@ -646,8 +646,192 @@
         "img/lag2.webp"
       ],
       "ruta": "chalten-laguna-de-los-tres"
+    },
+    {
+      "nombre": "Big Ice",
+      "grupo": [
+        "aventura",
+        "glaciares",
+        "trekking sobre hielo"
+      ],
+      "id": 19,
+      "subtitulo": "El Big Ice es una exigente excursión de día completo que permite explorar el corazón del Glaciar Perito Moreno en un Trekking de 7hs. Tras una breve navegación por el Lago Rico, comienza el trekking sobre el hielo, donde los participantes, equipados con crampones y guiados por expertos, podrán encontrar grietas, lagunas azules, cuevas y sumideros durante tres horas. La experiencia ofrece vistas únicas y la oportunidad de descubrir la magnitud y belleza del glaciar.",
+      "descripcion": [
+        "El Big Ice es una excursión de día completo que comienza con la búsqueda de los pasajeros en El Calafate. En nuestros confortables buses, camino al Parque Nacional Los Glaciares, los guías de turismo les brindarán información sobre la actividad, el lugar y el glaciar.",  
+        "Una vez en el puerto “Bajo de las Sombras” (Ruta 11, a 70 km de El Calafate) embarcarán para cruzar el Lago Rico, llegando a la costa opuesta luego de aproximadamente 20 minutos de navegación frente a la imponente cara sur del Glaciar Perito Moreno.",  
+        "Al llegar al refugio, el grupo será recibido por expertos guías de montaña, quienes los dividirán en subgrupos y los acompañarán durante todo el recorrido. El trekking comienza con una caminata por la morrena de aproximadamente 2 horas, donde se podrán observar diferentes vistas panorámicas del glaciar y del bosque.",  
+        "El Big Ice es una excursión altamente personalizada: los grupos sobre el hielo serán de hasta 10 personas, acompañados por dos guías de montaña quienes les colocarán los crampones, cascos y arneses y les explicarán las normas básicas de seguridad.",  
+        "La exigencia física es alta tanto en el bosque como sobre el hielo, donde la superficie es irregular pero firme y segura.",  
+        "Una vez en el glaciar y con los crampones puestos, el mundo toma una nueva perspectiva: lagunas azules, profundas grietas, enormes sumideros, mágicas cuevas, y la sensación única de sentirse en el corazón del glaciar.",  
+        "Explorarán durante tres horas aproximadamente los rincones del glaciar más especial del mundo. Durante el recorrido, los guías de montaña los ayudarán a conocer mejor el hielo, su entorno y podrán dimensionar la magnitud del glaciar y disfrutar de la vista de las montañas aledañas, como los cerros Dos Picos, Pietrobelli y Cervantes. Además, contarán con media hora para almorzar y sorprenderse en un lugar de inigualable belleza.",  
+        "Al finalizar la caminata sobre el glaciar, emprenderán el regreso por el mismo camino hasta llegar al Refugio, donde tendrán unos minutos para contemplar este lugar de inigualable belleza. Al tomar la embarcación de regreso, navegarán muy cerca de la cara sur del Glaciar Perito Moreno para luego volver a la “civilización”, ¡después de haber disfrutado uno de los treks sobre hielo más espectaculares del mundo!",  
+        "La duración de la excursión con el traslado es de alrededor de doce horas en total e incluye la visita guiada de una hora aproximadamente a las pasarelas del Glaciar Perito Moreno, a 7 km del puerto. Allí podrán disfrutar de la espectacular vista panorámica del glaciar y recorrer alguno de los senderos auto-guiados. En caso de no optar por nuestro transporte e ir por sus propios medios, el Big Ice dura siete horas y media aproximadamente, saliendo desde el Puerto y regresando al mismo punto de partida.",  
+        "El Big Ice se realiza en un ambiente natural por lo cual las condiciones climáticas y características del glaciar y sus alrededores cambian diariamente. Sin embargo, la excursión no se suspende, mientras que las condiciones de seguridad lo permitan. ¡Los esperamos!"
+      ],
+      "duracion": "12 hs (7 hs de trekking)",
+      "duracionCard": "12 hs",
+      "incluye": [
+        "Transfer ida y vuelta + visita a pasarelas (opcional)",
+        "Navegación",
+        "Trekking sobre el glaciar",
+        "Equipamiento (Crampones y cascos)"
+      ],
+      "incluyeCard": "Incluye transfer",
+      "noIncluye": [
+        "Almuerzo",
+        "Entrada al Parque Nacional Los Glaciares"
+      ],
+      "imagenes": [
+        "img/big-portada.jpg",
+        "img/big2.jpg",
+        "img/big3.jpg",
+        "img/big4.jpg"
+      ],
+      "ruta": "big-ice",
+      "precio": {
+        "Regular": 800000,
+        "Con traslado incluido": 880000,
+        "Residentes argentinos": 640000,
+        "Residentes argentinos (con traslado)": 720000
+      },
+      "portada": "img/big-portada.jpg"
+    },
+    {
+      "nombre": "Minitrekking",
+      "grupo": [
+        "aventura",
+        "glaciares",
+        "trekking sobre hielo"
+      ],
+      "id": 20,
+      "subtitulo": "El Minitrekking es una excursión única que combina una caminata sobre el Glaciar Perito Moreno con vistas espectaculares de sus formaciones de hielo como grietas, lagunas turquesas y sumideros. La actividad incluye una navegación de 20 minutos frente a la cara sur del glaciar y una caminata total de 3 horas (1 hora sobre el hielo) acompañados por guías especializados.",
+      "descripcion": [
+        "La excursión comienza con la búsqueda de los pasajeros en El Calafate. En nuestros confortables buses, camino al Parque Nacional Los Glaciares, los guías de turismo les brindarán información sobre el lugar, el glaciar y la excursión.",  
+        "Una vez en el puerto “Bajo de las Sombras” (Ruta 11, a 70 km de El Calafate) se embarca para cruzar el Lago Rico, llegando a la costa opuesta luego de aproximadamente 20 minutos de navegación frente a la imponente cara sur del Glaciar Perito Moreno.",  
+        "Al desembarcar serán recibidos por nuestros expertos guías de montaña, quienes los conducirán a un acogedor refugio con una vista privilegiada del glaciar. A partir de aquí, ¡comienza el trekking! Iniciaremos el recorrido con una caminata por la costa del lago y con la vista posada en el glaciar para no perdernos la oportunidad de ver desprendimientos. Luego, los guías brindarán una charla sobre glaciología.",  
+        "Al llegar al borde del glaciar, con las sorprendentes tonalidades azules del hielo enmarcando el paisaje, se organizarán subgrupos de un máximo de 20 personas cada uno y se les colocarán los crampones y cascos provistos por la empresa. Esta excursión es altamente personalizada (un guía cada 10 pasajeros máximo). Una vez sobre el glaciar, recibirán una charla de seguridad y caminarán para disfrutar de este paraíso helado declarado Patrimonio de la Humanidad (1981).",  
+        "El circuito sobre el glaciar es de dificultad media, la superficie del hielo es irregular pero firme y segura. Durante la caminata se podrá apreciar una variedad de formaciones típicas de un glaciar como profundas grietas, sumideros azules, enormes seracs y lagunas turquesas.",  
+        "Al finalizar la caminata sobre el hielo, se recorrerá la zona periglaciar y la morena lateral desde donde obtendrán una vista panorámica del Glaciar Perito Moreno, las montañas y del lago. Luego, se emprenderá el regreso por un sendero que atraviesa el exuberante bosque andino patagónico, completando así las TRES HORAS DE CAMINATA POR LA COSTA DEL LAGO, MORRENA, HIELO Y BOSQUE (de las cuales, una hora aproximadamente es sobre el hielo glaciar). Al llegar al refugio los invitaremos con una bebida caliente y les haremos entrega de un souvenir. Poco tiempo después embarcarán para regresar al Puerto Bajo de las Sombras, pero antes contemplarán desde el barco las enormes paredes del glaciar.",  
+        "La duración de la excursión con el traslado es de alrededor de diez horas en total e incluye la visita guiada de una hora aproximadamente a las pasarelas del Glaciar Perito Moreno, a 7 km del puerto. Allí podrán disfrutar de la espectacular vista panorámica del glaciar y recorrer alguno de los senderos autoguiados. En caso de no optar por nuestro transporte e ir por sus propios medios, el Minitrekking dura cuatro horas y media aproximadamente, saliendo desde el Puerto y regresando al mismo punto de partida.",  
+        "El Minitrekking se realiza en un ambiente natural por lo cual las condiciones climáticas y características del glaciar y sus alrededores cambian diariamente. Sin embargo, la excursión no se suspende, mientras que las condiciones de seguridad lo permitan. ¡Los esperamos!"
+      ],
+      "duracion": "10 hs (3 hs de trekking)",
+      "duracionCard": "10 hs",
+      "incluye": [
+        "Transfer ida y vuelta + visita a pasarelas (opcional)",
+        "Navegación",
+        "Trekking sobre el glaciar",
+        "Equipamiento (Crampones y cascos)"
+      ],
+      "incluyeCard": "Incluye transfer",
+      "noIncluye": [
+        "Almuerzo",
+        "Entrada al Parque Nacional Los Glaciares"
+      ],
+      "imagenes": [
+        "img/mini-portada.jpg",
+        "img/mini1.jpg",
+        "img/mini2.jpg",
+        "img/mini3.jpg",
+        "img/mini4.jpg"
+      ],
+      "ruta": "minitrekking",
+      "precio": {
+        "Regular": 400000,
+        "Con traslado incluido": 480000,
+        "Residentes argentinos": 320000,
+        "Residentes argentinos (con traslado)": 400000
+      },
+      "portada": "img/mini-portada.jpg"
+    },
+    {
+      "nombre": "Safari azul",
+      "grupo": [
+        "aventura",
+        "glaciares",
+        "navegaciones"
+      ],
+      "id": 21,
+      "subtitulo": "El Safari Azul está pensado para aquellos que sueñan con acercarse al hielo glaciar. Luego de una navegación de 20 minutos, y un Trekking de 1h30, podrán llegar a tocar el Glaciar Perito Moreno",
+      "descripcion": [
+        "El Safari Azul está pensado para aquellos que, además de navegar frente al Glaciar Perito Moreno, sueñan con acercarse al hielo glaciar!",  
+        "La excursión comienza en El Calafate cuando el bus parte con destino al Parque Nacional Los Glaciares. Una vez en el Puerto Bajo de las Sombras, a solo 7 km de las pasarelas, tomaremos un barco para cruzar el Lago Rico y, luego de navegar 20 minutos, desembarcaremos en la costa opuesta.",  
+        "Poco a poco caminaremos por 30 minutos siempre con vista a la pared sur del Glaciar por si nos sorprende algún estruendoso desprendimiento. Una vez al lado del hielo será tiempo de una experiencia inolvidable… ¡Podremos disfrutar plenamente de sus intensos y variados azules, blancos y sus caprichosas formas.",  
+        "Tendremos tiempo para tomar muchas fotos y luego regresaremos al lugar de embarque siempre acompañados por un guía experimentado. La caminata total es de 1.30 hs aproximadamente por un terreno natural de arena y piedras con alguna pendiente y escaleras. El recorrido, de un kilómetro y medio, será por la costa del lago y por un frondoso bosque con vista al Glaciar.",  
+        "Finalmente tomaremos el barco para apreciar desde el agua y, a pocos metros de distancia, toda la cara sur del glaciar y poder ver cada detalle de la marmolada pared helada.",  
+        "Una vez en el puerto, en caso de haber contratado el servicio de transfer con Hielo y Aventura, tomaremos el bus hacia las pasarelas donde tendremos 2 horas para disfrutar la increíble vista panorámica. En caso de haberse trasladado por sus propios medios, podrá optar libremente por el tiempo de visita en las pasarelas. Además, podrán aprovechar este tiempo para consumir la vianda que deberán traer desde El Calafate.",  
+        "Llegaremos a El Calafate luego de recorrer la estepa patagónica, con el alma cargada de la energía natural de este glaciar único. ¡Estamos ansiosos por ser sus anfitriones!",  
+        "El Safari Azul se realiza en un ambiente natural por lo cual las condiciones climáticas y características del glaciar y sus alrededores cambian diariamente. Sin embargo, la excursión no se suspende, mientras que las condiciones de seguridad lo permitan. ¡Los esperamos!"
+      ],
+      "duracion": "9 hs (1h30 de trekking)",
+      "duracionCard": "9 hs",
+      "incluye": [
+        "Transfer ida y vuelta + visita a pasarelas (opcional)",
+        "Navegación",
+        "Trekking hasta el glaciar"
+      ],
+      "incluyeCard": "Incluye transfer",
+      "noIncluye": [
+        "Almuerzo",
+        "Entrada al Parque Nacional Los Glaciares"
+      ],
+      "imagenes": [
+        "img/sa-portada.jpg",
+        "img/sa1.jpg",
+        "img/sa2.jpg",
+        "img/sa3.jpg",
+        "img/sa4.jpg"
+      ],
+      "ruta": "safari-azul",
+      "precio": {
+        "Regular": 200000,
+        "Con traslado incluido": 280000,
+        "Residentes argentinos": 160000,
+        "Residentes argentinos (con traslado)": 240000
+      },
+      "portada": "img/sa-portada.jpg"
+    },
+    {
+      "nombre": "Safari náutico",
+      "grupo": [
+        "glaciares",
+        "navegaciones"
+      ],
+      "id": 22,
+      "subtitulo": "El Safari Náutico es una navegación de 1h con vista a la cara sur del Glaciar Perito Moreno",
+      "descripcion": [
+        "La excursión comienza en el puerto 'Bajo de las Sombras', ubicado en la Ruta 11, Km 70.9, a una hora y media de El Calafate y a solo 7 km del Glaciar. El pasajero deberá llegar por sus medios hasta el puerto y una vez allí, se embarcará para navegar por el Lago Rico, donde se podrá apreciar la impresionante pared de hielo del Glaciar Perito Moreno y los témpanos que provienen de él.", 
+        "Esta navegación tiene una duración de una hora y brinda la posibilidad de observar desde nuestras confortables embarcaciones, y con una perspectiva totalmente diferente, las impresionantes paredes del Glaciar Perito Moreno y sus continuos y estruendosos derrumbes sobre las aguas del Lago Rico.", 
+        "A 400 metros de la pared sur del Glaciar Perito Moreno, el barco se detiene por unos minutos para poder observar más detalladamente el paisaje. ¡Más cerca de la pared de la ruptura, imposible!", 
+        "El Safari Náutico es una navegación apta para todas las edades y se puede realizar los 365 días del año.", 
+        "Esta excursión está orientada a personas que quieren contemplar la magia del hielo e inmortalizarla en la memoria, observando cada detalle de la pared de hielo y su entorno.", 
+        "Salidas desde puerto 'Bajo de las sombras': 10:00, 11:30 y 14:30 hs. (consultar por otras salidas)."
+      ],
+      "duracion": "1 hs",
+      "duracionCard": "1 hs",
+      "incluye": [
+        "Transfer ida y vuelta + visita a pasarelas (opcional)",
+        "Navegación"
+      ],
+      "incluyeCard": "Incluye transfer",
+      "noIncluye": [
+        "Almuerzo",
+        "Entrada al Parque Nacional Los Glaciares"
+      ],
+      "imagenes": [
+        "img/sn1.jpg",
+        "img/sn2.jpg",
+        "img/sn3.jpg",
+        "img/sn4.jpg"
+      ],
+      "ruta": "safari-nautico",
+      "precio": {
+        "Regular": 80000,
+        "Residentes argentinos": 64000
+      },
+      "portada": "img/sn4.jpg"
     }
-
+    
 
   ]
 }
